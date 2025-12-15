@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+# @babel/types
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> Babel Types is a Lodash-esque utility library for AST nodes
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+See our website [@babel/types](https://babeljs.io/docs/babel-types) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20types%22+is%3Aopen) associated with this package.
+
+## Install
+
+Using npm:
+
+```sh
+npm install --save-dev @babel/types
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/types --dev
+```
