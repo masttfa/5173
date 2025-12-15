@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>مثال تصميم صفحة ويب</title>
+
+<meta charset=”UTF-8″>
+
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+margin: 0;
+
+padding: 0;
+
+}
+
+header {
+
+background-color: #333;
+
+color: #fff;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+nav {
+
+background-color: #eee;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+nav a {
+
+color: #333;
+
+display: inline-block;
+
+margin: 0 10px;
+
+text-decoration: none;
+
+}
+
+main {
+
+margin: 10px;
+
+padding: 10px;
+
+}
+
+h1 {
+
+font-size: 36px;
+
+margin-bottom: 20px;
+
+text-align: center;
+
+}
+
+p {
+
+line-height: 1.5;
+
+margin-bottom: 20px;
+
+text-align: justify;
+
+}
+
+footer {
+
+background-color: #333;
+
+color: #fff;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>عنوان الصفحة</h1>
+
+</header>
+
+<nav>
+
+<a href=”#”>الرئيسية</a>
+
+<a href=”#”>من نحن</a>
+
+<a href=”#”>اتصل بنا</a>
+
+</nav>
+
+<main>
+
+<h2>عنوان الفقرة</h2>
+
+<p>هذه هي النص الخاص بالفقرة الأولى في الصفحة. يمكنك إضافة نص آخر هنا إذا كنت تريد.</p>
+
+<h2>عنوان آخر لفقرة</h2>
+
+<p>هذه هي النص الخاص بالفقرة الثانية في الصفحة. يمكنك إضافة نص آخر هنا إذا كنت تريد.</p>
+
+</main>
+
+<footer>
+
+<p>حقوق الطبع والنشر &copy; 2023</p>
+
+</footer>
+
+</body>
+
+</html>
